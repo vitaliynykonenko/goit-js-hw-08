@@ -23,7 +23,7 @@ function createImagesMarkup(galleryItems) {
 </a>
 
     </div>
-`;
+`
     })
     .join('');
 }
